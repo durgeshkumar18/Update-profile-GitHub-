@@ -25,8 +25,8 @@
 - Low-power digital logic design projects
 
 ## 📫 How to reach me:
-- Email: durgeshkumar.ec20@govtcollege.ac.in
-- LinkedIn: [linkedin.com/in/durgeshkumar18](https://linkedin.com/in/durgeshkumar18)
+- Email: durgeshnishad109@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/durgesh-kumar-nishad-0750b4327
 - GitHub: [github.com/durgeshkumar18](https://github.com/durgeshkumar18)
 
 ## 😄 Pronouns:
