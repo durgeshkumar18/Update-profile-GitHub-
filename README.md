@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Durgesh Kumar (@durgeshkumar18)
 
+![Image](https://github.com/user-attachments/assets/c4e7565d-05b9-4647-9f25-9879be27287a)
+
+
+
 ## 👀 I’m interested in:
 - VLSI Design and Verification
 - Semiconductor Technology
